@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkddd_tpl_react=self.webpackChunkddd_tpl_react||[]).push([[234],{4853:(e,s,t)=>{t.r(s),t.d(s,{default:()=>h});var l=t(5043),n=t(3216),d=t(579);const a=e=>{let{element:s}=e;return(0,d.jsx)(l.Suspense,{fallback:(0,d.jsx)("div",{}),children:(0,d.jsx)(s,{})})},r=l.lazy((()=>t.e(39).then(t.bind(t,3039)))),c=()=>(0,d.jsx)(n.BV,{children:(0,d.jsx)(n.qh,{path:"/",element:(0,d.jsx)(a,{element:r})})}),h=()=>(0,d.jsx)(d.Fragment,{children:(0,d.jsx)(c,{})})}}]);
+//# sourceMappingURL=234.693ce4fe.chunk.js.map
